@@ -191,3 +191,5 @@ echo "Transferring tokens..."
 npx hardhat run scripts/transfer.js --network swisstronik
 echo "Tokens transferred."
 echo "Done! Subscribe: https://t.me/feature_earning"
+ git add . && git commit -m "feat: initiated the project" && git push origin main
+ 
